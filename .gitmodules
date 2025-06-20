@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Sps9938/Students-Attendance-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Sps9938/Students-Attendance-Frontend.git
