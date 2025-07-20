@@ -1,8 +1,8 @@
-# 🚀 Students-Attendance-FullStack
+# Students-Attendance-FullStack
 
 A full-stack application combining separate **Frontend** and **Backend** projects using Git submodules for better modularity and maintainability.
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 FullStackApp/
@@ -17,7 +17,7 @@ FullStackApp/
 
 ---
 
-## 📦 How to Clone This Repository
+## How to Clone This Repository
 
 To clone this repository **with submodules**, run:
 
@@ -25,7 +25,7 @@ To clone this repository **with submodules**, run:
 git clone  https://github.com/your-username/FullStackApp.git
 
 ```
-## 🧪 Making Changes to Submodules
+## Making Changes to Submodules
 
 ### 1. Commit and push changes inside the submodule
 
@@ -47,7 +47,7 @@ git push origin main
 
 ```
 
-## 🧠 Why Submodules?
+## Why Submodules?
 
 Independent version control for Frontend and Backend
 
@@ -55,14 +55,14 @@ Reusable across multiple projects
 
 Keeps this repo lightweight and maintainable
 
-## 🤝 Contributing
+## Contributing
 
 To contribute to the **Frontend** or **Backend**, fork and open pull requests directly in those repositories.
 
 For full-stack integration issues or changes, you can work within this **FullStack** repo.
 
 
-## 👨‍💻 Author
+## Author
 
 **Satya Prakash**  
 Full-stack Developer | MERN Stack | Open Source Enthusiast
