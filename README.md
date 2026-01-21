@@ -47,6 +47,26 @@ git push origin main
 
 ```
 
+
+## Testing
+
+### Backend Testing
+The backend is tested using **Pytest**. Automated tests cover API endpoints, business logic, and health checks to ensure reliability and correctness of the backend services.
+
+
+### Frontend Testing
+The frontend is tested using **Selenium** for UI automation and **Jest** for unit and API endpoint testing.
+
+#### Jest API Testing
+Jest is used to automate testing of frontend logic and backend API endpoints. Example tests include verifying login, health check, and other API routes using axios. To run Jest tests:
+
+```bash
+cd Frontend
+npm run test
+```
+Make sure your backend server is running before running API tests.
+
+---
 ## Why Submodules?
 
 Independent version control for Frontend and Backend
